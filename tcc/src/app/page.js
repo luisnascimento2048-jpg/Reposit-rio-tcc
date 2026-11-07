@@ -1,4 +1,4 @@
-import Tela from './components/tela.jsx';
+import Tela from "@/components/tela.jsx";
 
 export default function Home() {
   return (
